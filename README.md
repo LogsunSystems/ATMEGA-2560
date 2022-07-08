@@ -17,3 +17,4 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
     • Clock Speed 16 MHz
 
 **Software used for Atmega 2560:  ARDUINO** 
+
